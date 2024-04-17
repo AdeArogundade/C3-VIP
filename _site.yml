@@ -1,14 +1,23 @@
-name: "Adedotun Arogundade"
+name: "C3 VIP Example Website"
 output_dir: "."
-theme: jekyll-theme-cayman
 navbar:
-  title: "Adedotun Arogundade"
+  title: "C3 VIP Example Website"
   left:
-    - text: "Home"
+    - text: "General Instruction"
       href: index.html
-    - text: "Values"
+    - text: "Timetable"
       href: Values.html
-    - text: "Research"
+    - text: "Module 1: Reading Scientific Papers"
       href: Research.html
-    - text: "Contact"
+    - text: "Module 2: Intro. to R"
+      href: Contact.html
+    - text: "Module 3: Culturing Techniques"
+      href: Contact.html
+    - text: "Module 4: PCR and Gel Electrophoresis"
+      href: Contact.html
+    - text: "Module 5: BLAST"
+      href: Contact.html
+    - text: "Module 6: Data Visualization"
+      href: Contact.html
+    - text: "Module 7: Science Communication"
       href: Contact.html
